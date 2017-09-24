@@ -1,0 +1,7 @@
+{
+	"name": "polar-m4h-node",
+	"version": "0.0.1",
+	"dependencies": {
+		"usb": "1.1.2"
+	}
+}
